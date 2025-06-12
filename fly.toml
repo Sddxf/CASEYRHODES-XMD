@@ -1,5 +1,5 @@
-app = "nicolaus-daniel-2"
-primary_region = "ams" # unaweza kubadilisha kama unataka region nyingine
+app = "caseyrhodes"  # Hakikisha jina linafanana na app yako
+primary_region = "ams"
 
 [build]
 dockerfile = "Dockerfile"
