@@ -13,7 +13,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "Caseyrhodes~QrMzQYxA#zg7L9zXg_xH4oAS6jcP43QZ-soOq4AH7W_AVDGGQ9uU"
+      "value": "Caseyrhodes~k7szQIAQ#HTQ-yCAIJlV1Ps4K_cWDgsv5pyGpJYt-d-aU8r6POCw"
     },  
     
     "ALIVE_IMG": {
@@ -37,7 +37,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     
     "MODE": {
@@ -51,7 +51,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -82,7 +82,7 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS__MSG": {
